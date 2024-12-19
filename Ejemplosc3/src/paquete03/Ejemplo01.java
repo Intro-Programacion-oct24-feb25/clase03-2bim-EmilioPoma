@@ -46,7 +46,7 @@ public class Ejemplo01 {
                 if (promedioNotas[i]>=6 && promedioNotas[i]<=8.9){
                     promedioNotasCualitativas [i] = "Muy Bueno";
                 }else
-                    if (promedioNotas[i]>=6 && promedioNotas[i]<=8.9){
+                    if (promedioNotas[i]>=9 && promedioNotas[i]<=10){
                         promedioNotasCualitativas [i] = "Sobresaliente";
                     }
             
